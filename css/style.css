@@ -7,3 +7,7 @@ body {
 h1 {
   font-size: 100px;
 }
+
+a:hover {
+  background-color: aquamarine;
+}
