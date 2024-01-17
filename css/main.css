@@ -9,28 +9,30 @@ h1 {
   color: darkgreen;
 }
 
+h2 {
+  color: darkgreen;
+}
+
 p {
   background-color: lightgrey;
-  width: 750px;
+  width: 80%;
   border: 15px solid green;
   padding: 50px;
-  margin: 20px;
+  margin: auto;
   letter-spacing: 0.2rem;
   font-style: italic;
   font-weight: bold;
-  text-align: justify;
+  text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
-}
-
-.logo.content:hover {
-  filter: drop-shadow(0 0 2em #048346);
+  color: darkgreen;
 }
 
 button:hover {
   background-color: aquamarine;
 }
 
-h1:hover {
+h1:hover,
+h2:hover {
   color: #e3ee6c;
 }
 
@@ -39,10 +41,10 @@ ul {
   font-size: 15px;
   color: rgb(12, 77, 30);
   background-color: lightgrey;
-  width: 750px;
+  width: 82%;
   border: 15px solid green;
   padding: 50px;
-  margin: 20px;
+  margin: auto;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
 }
