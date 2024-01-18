@@ -14,7 +14,7 @@ h2 {
 }
 
 p {
-  background-image: url("/img/background.png");
+  background-image: url("/img/background\ 2.png");
   width: 80%;
   border: 15px solid green;
   padding: 50px;
@@ -28,12 +28,12 @@ p {
 }
 
 button:hover {
-  background-color: aquamarine;
+  background-color: rgb(54, 177, 193);
 }
 
 h1:hover,
 h2:hover {
-  color: #e3ee6c;
+  color: #47b9e6;
 }
 
 ul {
@@ -47,6 +47,7 @@ ul {
   margin: 20px;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
+  background-image: url("/img/background\ 2.png");
 }
 
 .center {
