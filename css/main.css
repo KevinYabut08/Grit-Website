@@ -14,7 +14,6 @@ h2 {
 }
 
 p {
-  background-image: url("/img/background\ 2.png");
   width: 80%;
   border: 15px solid green;
   padding: 50px;
@@ -25,14 +24,14 @@ p {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   color: darkgreen;
+  background-image: url("/img/background\ 2.png");
 }
 
 button:hover {
   background-color: rgb(54, 177, 193);
 }
 
-h1:hover,
-h2:hover {
+h1:hover {
   color: #47b9e6;
 }
 
@@ -47,7 +46,7 @@ ul {
   margin: 20px;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
-  background-image: url("/img/background\ 2.png");
+  background-image: url("/img/background.png");
 }
 
 .center {
