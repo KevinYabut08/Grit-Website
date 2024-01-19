@@ -24,7 +24,7 @@ p {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   color: darkgreen;
-  background-image: url(/img/background.png);
+  background-image: url(/images/img.png);
 }
 
 button:hover {
@@ -39,14 +39,13 @@ ul {
   text-align: start;
   font-size: 15px;
   color: rgb(12, 77, 30);
-  background-color: lightgrey;
   width: 82%;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
-  background-image: url(/img/background.png);
+  background-image: url(/images/img.png);
 }
 
 .center {
