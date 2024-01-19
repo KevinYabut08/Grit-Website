@@ -30,7 +30,7 @@ h1:hover {
 }
 
 :root {
-  --background: #005;
+  --background: antiquewhite;
   --primary: #88d5bf;
   --secondary: #5d6bf8;
   --third: #e27fcb;
@@ -41,7 +41,7 @@ h1:hover {
 }
 
 body {
-  background: #005;
+  background: darkkhaki;
 }
 
 .container {

@@ -15,7 +15,7 @@ h2 {
 
 p {
   width: 80%;
-  border: 15px solid green;
+  border: 15px solid darkkhaki;
   padding: 50px;
   margin: auto;
   letter-spacing: 0.2rem;
@@ -24,7 +24,7 @@ p {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   color: darkgreen;
-  background-image: url(/images/img.png);
+  background-color: antiquewhite;
 }
 
 button:hover {
@@ -32,7 +32,7 @@ button:hover {
 }
 
 h1:hover {
-  color: #47b9e6;
+  color: darkkhaki;
 }
 
 ul {
@@ -40,12 +40,12 @@ ul {
   font-size: 15px;
   color: rgb(12, 77, 30);
   width: 82%;
-  border: 15px solid green;
+  border: 15px solid darkkhaki;
   padding: 50px;
   margin: 20px;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
-  background-image: url(/images/img.png);
+  background-color: antiquewhite;
 }
 
 .center {
