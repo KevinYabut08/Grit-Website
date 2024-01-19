@@ -5,8 +5,8 @@ body {
 
 h1 {
   font-size: 100px;
-  color: rgb(13, 216, 231);
-  --c: #9ed0f9; /* the border color */
+  color: lightblue;
+  --c: pink; /* the border color */
   --b: 10px; /* the border thickness*/
   --g: 5px; /* the gap on hover */
 
@@ -41,7 +41,7 @@ h1:hover {
 }
 
 body {
-  background: darkkhaki;
+  background: antiquewhite;
 }
 
 .container {
