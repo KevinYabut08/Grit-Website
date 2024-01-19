@@ -47,7 +47,7 @@ ul {
   margin: 20px;
   font-style: italic;
   font-family: "Lucida Console", "Courier New", monospace;
-  background-image: url(/images/background.jpg);
+  background-image: url(background.jpg)
   background-repeat: no-repeat;
   background-size: 850px;
 }
