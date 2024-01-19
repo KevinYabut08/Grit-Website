@@ -24,7 +24,7 @@ p {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
   color: darkgreen;
-  background-image: url("/images/background.pngg");
+  background-image: url("/images/background.png");
 }
 
 button:hover {
